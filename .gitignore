@@ -2,6 +2,6 @@
 target/
 
 # eclipse ignore
-.setting/
+.settings/
 .project
 .classpath
